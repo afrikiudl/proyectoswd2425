@@ -17,4 +17,15 @@
   "url": "https://afrikiudl.github.io/arteempatizar/"
   }
 
+
+    {
+      "id": 2,
+      "autor": "Berta Güell i Sònia Soldevila",
+      "titulo": "PC-ando",
+      "srcimg": "https://raw.githubusercontent.com/ssoldevila/practica2discapacitats/refs/heads/main/img/peixera.978e6e8e.jpg ",
+      "alt": "Relació entre els peixos i les discapacitats",
+  "texto": "busca sensibilitzar els usuaris sense discapacitatsobre les barreres d'accessibilitat que afecten a les persones amb discapacitat.",
+  "url": "https://ssoldevila.github.io/practica2discapacitats/"
+  }
+	
 ]
