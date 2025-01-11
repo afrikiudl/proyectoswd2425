@@ -48,7 +48,15 @@
 "url": "https://colausabater.github.io/practica2.musiccrave/"
 },
 
-
+{
+  "id": 5,
+  "autor": "Eudald Cardozo Vallhonrat i David Garcia Aybar",
+  "titulo": "Mosaic Casteller",
+  "srcimg": "https://raw.githubusercontent.com/Eutatsu/WebDinPractica2/refs/heads/main/img/header.png",
+  "alt": "Mosaic de píxels de colors aleatoris",
+"texto": "Visualització dels colors de camisa de totes les colles castellers de Catalunya i més enllà, i com diferentes dificultats d'accesibilitat poden afectar-la.",
+"url": "https://eutatsu.github.io/WebDinPractica2/"
+},
 
 	
 ]
