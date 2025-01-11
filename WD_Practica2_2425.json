@@ -38,6 +38,16 @@
   "url": "https://vaperinho.github.io/perspectivadigital/"
   },
 
+	{
+  "id": 4,
+  "autor": "Colau Sabater Alcolecha",
+  "titulo": "Music Crave",
+  "srcimg": "https://raw.githubusercontent.com/colausabater/practica2.musiccrave/refs/heads/main/MUSICCRAVECOVER.jpg",
+  "alt": "Collage de los álbumes más relevantes de la década, con el logo de Music Crave en el centro.",
+"texto": "Una web de noticias musicales diseñada para identificar barreras de accesibilidad web que sufren las personas con discapacidades.",
+"url": "https://colausabater.github.io/practica2.musiccrave/noticies"
+},
+
 
 
 	
