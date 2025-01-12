@@ -79,5 +79,15 @@
     "alt": "Ala de un avión volando",
     "texto": "Un blog de viajes en inglés con barreras de accesibilidad web para empatizar con las personas con discapacidad",
     "url": "https://dunaestrada.github.io/practica2/"
-  }
+  },
+  {
+    "id": 9,
+    "autor": "Valentina Coello y Julia Calvo",
+    "titulo": "AprendiendoEmpatia",
+    "srcimg": "https://raw.githubusercontent.com/juliz1/AprendiendoaEmpatizar/refs/heads/main/img/discapacidad.ae65bc11.png",
+    "alt": "Imagen de personas con diversas discapacidades.",
+    "texto": "Una página para reflexionar sobre la experiencia en webs de las personas con discapacidades.",
+    "url": "https://juliz1.github.io/AprendiendoaEmpatizar/"
+}
+
 ]
