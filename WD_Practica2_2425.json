@@ -115,5 +115,14 @@
     "alt": "Imatge d'una cadira",
     "texto": "Pàgina web d'una botiga de mobles amb barreres d'accessibilitat per empatitzar amb persones amb discapacitat.",
     "url": "https://blauarbiol.github.io/practica2/"
-  }
+  },
+  {
+    "id": 13,
+    "autor": "Sandra Salvia Bori",
+    "titulo": "Music Crave",
+    "srcimg": "https://i.ibb.co/rdfcYPH/billie.png",
+    "alt": "Fotografia de la cantant Billie Eilish, amb un filtre blau i el logo de la web damunt.",
+    "texto": "Music Crave es una web de temàtica músical en la que mitjançant la diferent disposició de la multimèdia i informació, es presenten diferents barreres d'accés a la plataforma.",
+    "url": "https://sandralol1.github.io/musiccrave/"
+  },
 ]
