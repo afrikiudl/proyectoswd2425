@@ -67,7 +67,14 @@
 "texto": "Una web que cuenta historias de Navidad mostrando barreras de accesibilidad web",
 "url": "https://lii-rose.github.io/mqm/"
 },
-
+    "id": 7,
+      "autor": "Sergi Escarré i Xavier Enseñat",
+      "titulo": "Cinemania",
+      "srcimg": "https://raw.githubusercontent.com/Sergiiiiiiiiii3/p6/refs/heads/main/img/posterstarwars.003fbe46.png",
+      "alt": "Poster Star Wars",
+  "texto": "Una pàgina de Cine que inclou barreras que poden patir persones amb discapacitats .",
+  "url": "https://sergiiiiiiiiii3.github.io/p6/"
+  },
 
 	
 
