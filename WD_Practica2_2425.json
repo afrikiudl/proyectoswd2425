@@ -70,5 +70,14 @@
     "alt": "Poster Star Wars",
     "texto": "Una página de Cine que incluye barreras que pueden sufrir personas con discapacidades.",
     "url": "https://sergiiiiiiiiii3.github.io/p6/"
+  },
+  {
+    "id": 8,
+    "autor": "Paula Bailach i Duna Estrada",
+    "titulo": "Travel Blog",
+    "srcimg": "https://raw.githubusercontent.com/dunaestrada/practica2/refs/heads/main/img/TitleBackground.bd77fc98.png",
+    "alt": "Ala de un avión volando",
+    "texto": "Un blog de viajes en inglés con barreras de accesibilidad web para empatizar con las personas con discapacidad",
+    "url": "https://dunaestrada.github.io/practica2/"
   }
 ]
