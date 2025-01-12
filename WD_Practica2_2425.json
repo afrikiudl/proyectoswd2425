@@ -50,7 +50,7 @@
     "titulo": "Mosaic Casteller",
     "srcimg": "https://raw.githubusercontent.com/Eutatsu/WebDinPractica2/refs/heads/main/img/header.png",
     "alt": "Mosaico de píxeles de colores aleatorios",
-    "texto": "Visualización de los colores de camisa de todas las colles castellers de Catalunya y mas allà, y como diferentes dificultades de accesibilidad pueden afectarla.",
+    "texto": "Visualización de los colores de camisa de todas las colles castellers de Catalunya y más allá, y cómo diferentes dificultades de accesibilidad pueden afectarla.",
     "url": "https://eutatsu.github.io/WebDinPractica2/"
   },
   {
@@ -77,7 +77,7 @@
     "titulo": "Travel Blog",
     "srcimg": "https://raw.githubusercontent.com/dunaestrada/practica2/refs/heads/main/img/TitleBackground.bd77fc98.png",
     "alt": "Ala de un avión volando",
-    "texto": "Un blog de viajes en inglés con barreras de accesibilidad web para empatizar con las personas con discapacidad",
+    "texto": "Un blog de viajes en inglés con barreras de accesibilidad web para empatizar con las personas con discapacidad.",
     "url": "https://dunaestrada.github.io/practica2/"
   },
   {
@@ -95,18 +95,18 @@
     "titulo": "D&D Builder",
     "srcimg": "https://raw.githubusercontent.com/ikwaru/webjeje/e02499373aaa3c394c63b84ac5d7889cb9540ce3/pagina/src/assets/logo1.png",
     "alt": "Logo D&D",
-    "texto": "Web Informativa de Dungeons and Dragons",
+    "texto": "Web informativa de Dungeons and Dragons.",
     "url": "https://ikwaru.github.io/webjeje/"
   },
   {
-    "id": 11,
-    "autor": “Vlada Ivaniv“,
-    "titulo": “Panadería”,
-    "srcimg": "https://raw.githubusercontent.com/vladaivaniv/practica2/refs/heads/main/src/assets/about-us.webp",
-    "alt": “Pan en una mesa junto a otros aperitivos.”,
-    "texto": “Una panadería con barreras de accesibilidad",
-    "url": "https://vladaivaniv.github.io/practica2"
-  },
+    "id": 11,
+    "autor": "Vlada Ivaniv",
+    "titulo": "Panadería",
+    "srcimg": "https://raw.githubusercontent.com/vladaivaniv/practica2/refs/heads/main/src/assets/about-us.webp",
+    "alt": "Pan en una mesa junto a otros aperitivos.",
+    "texto": "Una panadería con barreras de accesibilidad.",
+    "url": "https://vladaivaniv.github.io/practica2"
+  },
   {
     "id": 12,
     "autor": "Blau Arbiol i Andrea Ginés",
