@@ -106,5 +106,14 @@
     "alt": “Pan en una mesa junto a otros aperitivos.”,
     "texto": “Una panadería con barreras de accesibilidad",
     "url": "https://vladaivaniv.github.io/practica2"
-  }
+  },
+  {
+    "id": 11,
+    "autor": "Blau Arbiol i Andrea Ginés",
+    "titulo": "DFurniture",
+    "srcimg": "https://raw.githubusercontent.com/blauarbiol/practica2/refs/heads/main/c1.avif",
+    "alt": "Imatge d'una cadira",
+    "texto": "Pàgina web d'una botiga de mobles amb barreres d'accessibilitat per empatitzar amb persones amb discapacitat.",
+    "url": "https://blauarbiol.github.io/practica2/"
+  }
 ]
