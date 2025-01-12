@@ -58,5 +58,18 @@
 "url": "https://eutatsu.github.io/WebDinPractica2/"
 },
 
+{
+  "id": 6,
+  "autor": "Martina López Rubio e Iris Noelia Serrano Rodríguez",
+  "titulo": "Cuentos de Navidad con un giro",
+  "srcimg": "https://raw.githubusercontent.com/Lii-Rose/mqm/refs/heads/main/img/10389.891fe1aa.jpg",
+  "alt": "Un paisaje nevado con una cabaño roja al fondo y algunos árboles.",
+"texto": "Una web que cuenta historias de Navidad mostrando barreras de accesibilidad web",
+"url": "https://lii-rose.github.io/mqm/"
+},
+
+
+	
+
 	
 ]
