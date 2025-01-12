@@ -1,82 +1,74 @@
-[{
-        "id": 0,
-        "autor": "Afra Pascual",
-        "titulo": "Web Dinámica Curs 204/25",
-        "srcimg": "https://afrikiudl.github.io/proyectoswd2324/img/graudiseny.6ef55c0b.jpg",
-        "alt": "Persona con gafas de realidad virtual y el texto de Grado de Diseño Digital y Tecnologías Creativas",
-		"texto": "Página web de resumen de las prácticas de los alumnos",
-		"url": "https://afrikiudl.github.io/proyectoswd2425/"
-    },
-    {
-      "id": 1,
-      "autor": "Afra Pascual",
-      "titulo": "Arte Empatizar",
-      "srcimg": "https://afrikiudl.github.io/arteempatizar/img/empatia.f4d7a209.jpg",
-      "alt": "Dos cerebros intercambiando información para ser más empáticos entre ellos",
-  "texto": "Colección de ejemplos sobre elementos web pero observados desde la perspectiva de personas con discapacidad.",
-  "url": "https://afrikiudl.github.io/arteempatizar/"
+[
+  {
+    "id": 0,
+    "autor": "Afra Pascual",
+    "titulo": "Web Dinámica Curs 204/25",
+    "srcimg": "https://afrikiudl.github.io/proyectoswd2324/img/graudiseny.6ef55c0b.jpg",
+    "alt": "Persona con gafas de realidad virtual y el texto de Grado de Diseño Digital y Tecnologías Creativas",
+    "texto": "Página web de resumen de las prácticas de los alumnos",
+    "url": "https://afrikiudl.github.io/proyectoswd2425/"
   },
-
-
-    {
-      "id": 2,
-      "autor": "Berta Güell i Sònia Soldevila",
-      "titulo": "PC-ando",
-      "srcimg": "https://raw.githubusercontent.com/ssoldevila/practica2discapacitats/refs/heads/main/img/peixera.978e6e8e.jpg ",
-      "alt": "Relació entre els peixos i les discapacitats",
-  "texto": "busca sensibilitzar els usuaris sense discapacitatsobre les barreres d'accessibilitat que afecten a les persones amb discapacitat.",
-  "url": "https://ssoldevila.github.io/practica2discapacitats/"
+  {
+    "id": 1,
+    "autor": "Afra Pascual",
+    "titulo": "Arte Empatizar",
+    "srcimg": "https://afrikiudl.github.io/arteempatizar/img/empatia.f4d7a209.jpg",
+    "alt": "Dos cerebros intercambiando información para ser más empáticos entre ellos",
+    "texto": "Colección de ejemplos sobre elementos web pero observados desde la perspectiva de personas con discapacidad.",
+    "url": "https://afrikiudl.github.io/arteempatizar/"
   },
-
-    {
-      "id": 3,
-      "autor": "Lidia Alcalde i Christian Radu Dragan",
-      "titulo": "Perspectiva Digital",
-      "srcimg": "https://raw.githubusercontent.com/Vaperinho/perspectivadigital/refs/heads/main/srcimg.png",
-      "alt": "Portada de la pagina web de un diario digital.",
-  "texto": "Un sitio web diseñado para sensibilizar y educar sobre las barreras de accesibilidad que enfrentan las personas con discapacidades al navegar por internet.",
-  "url": "https://vaperinho.github.io/perspectivadigital/"
+  {
+    "id": 2,
+    "autor": "Berta Güell i Sònia Soldevila",
+    "titulo": "PC-ando",
+    "srcimg": "https://raw.githubusercontent.com/ssoldevila/practica2discapacitats/refs/heads/main/img/peixera.978e6e8e.jpg",
+    "alt": "Relació entre els peixos i les discapacitats",
+    "texto": "Busca sensibilitzar els usuaris sense discapacitat sobre les barreres d'accessibilitat que afecten a les persones amb discapacitat.",
+    "url": "https://ssoldevila.github.io/practica2discapacitats/"
   },
-
-	{
-  "id": 4,
-  "autor": "Colau Sabater Alcolecha",
-  "titulo": "Music Crave",
-  "srcimg": "https://raw.githubusercontent.com/colausabater/practica2.musiccrave/refs/heads/main/MUSICCRAVECOVER.jpg",
-  "alt": "Collage de los álbumes más relevantes de la década, con el logo de Music Crave en el centro.",
-"texto": "Una web de noticias musicales diseñada para identificar barreras de accesibilidad web que sufren las personas con discapacidades.",
-"url": "https://colausabater.github.io/practica2.musiccrave/"
-},
-
-{
-  "id": 5,
-  "autor": "Eudald Cardozo Vallhonrat i David Garcia Aybar",
-  "titulo": "Mosaic Casteller",
-  "srcimg": "https://raw.githubusercontent.com/Eutatsu/WebDinPractica2/refs/heads/main/img/header.png",
-  "alt": "Mosaic de píxels de colors aleatoris",
-"texto": "Visualització dels colors de camisa de totes les colles castellers de Catalunya i més enllà, i com diferentes dificultats d'accesibilitat poden afectar-la.",
-"url": "https://eutatsu.github.io/WebDinPractica2/"
-},
-
-{
-  "id": 6,
-  "autor": "Martina López Rubio e Iris Noelia Serrano Rodríguez",
-  "titulo": "Cuentos de Navidad con un giro",
-  "srcimg": "https://raw.githubusercontent.com/Lii-Rose/mqm/refs/heads/main/img/10389.891fe1aa.jpg",
-  "alt": "Un paisaje nevado con una cabaño roja al fondo y algunos árboles.",
-"texto": "Una web que cuenta historias de Navidad mostrando barreras de accesibilidad web",
-"url": "https://lii-rose.github.io/mqm/"
-},
+  {
+    "id": 3,
+    "autor": "Lidia Alcalde i Christian Radu Dragan",
+    "titulo": "Perspectiva Digital",
+    "srcimg": "https://raw.githubusercontent.com/Vaperinho/perspectivadigital/refs/heads/main/srcimg.png",
+    "alt": "Portada de la página web de un diario digital.",
+    "texto": "Un sitio web diseñado para sensibilizar y educar sobre las barreras de accesibilidad que enfrentan las personas con discapacidades al navegar por internet.",
+    "url": "https://vaperinho.github.io/perspectivadigital/"
+  },
+  {
+    "id": 4,
+    "autor": "Colau Sabater Alcolecha",
+    "titulo": "Music Crave",
+    "srcimg": "https://raw.githubusercontent.com/colausabater/practica2.musiccrave/refs/heads/main/MUSICCRAVECOVER.jpg",
+    "alt": "Collage de los álbumes más relevantes de la década, con el logo de Music Crave en el centro.",
+    "texto": "Una web de noticias musicales diseñada para identificar barreras de accesibilidad web que sufren las personas con discapacidades.",
+    "url": "https://colausabater.github.io/practica2.musiccrave/"
+  },
+  {
+    "id": 5,
+    "autor": "Eudald Cardozo Vallhonrat i David Garcia Aybar",
+    "titulo": "Mosaic Casteller",
+    "srcimg": "https://raw.githubusercontent.com/Eutatsu/WebDinPractica2/refs/heads/main/img/header.png",
+    "alt": "Mosaic de píxeles de colores aleatorios",
+    "texto": "Visualización dels colors de camisa de totes les colles castellers de Catalunya i més enllà, i com diferents dificultats d'accessibilitat poden afectar-la.",
+    "url": "https://eutatsu.github.io/WebDinPractica2/"
+  },
+  {
+    "id": 6,
+    "autor": "Martina López Rubio e Iris Noelia Serrano Rodríguez",
+    "titulo": "Cuentos de Navidad con un giro",
+    "srcimg": "https://raw.githubusercontent.com/Lii-Rose/mqm/refs/heads/main/img/10389.891fe1aa.jpg",
+    "alt": "Un paisaje nevado con una cabaña roja al fondo y algunos árboles.",
+    "texto": "Una web que cuenta historias de Navidad mostrando barreras de accesibilidad web.",
+    "url": "https://lii-rose.github.io/mqm/"
+  },
+  {
     "id": 7,
-      "autor": "Sergi Escarré i Xavier Enseñat",
-      "titulo": "Cinemania",
-      "srcimg": "https://raw.githubusercontent.com/Sergiiiiiiiiii3/p6/refs/heads/main/img/posterstarwars.003fbe46.png",
-      "alt": "Poster Star Wars",
-  "texto": "Una pàgina de Cine que inclou barreras que poden patir persones amb discapacitats .",
-  "url": "https://sergiiiiiiiiii3.github.io/p6/"
-  },
-
-	
-
-	
+    "autor": "Sergi Escarré i Xavier Enseñat",
+    "titulo": "Cinemania",
+    "srcimg": "https://raw.githubusercontent.com/Sergiiiiiiiiii3/p6/refs/heads/main/img/posterstarwars.003fbe46.png",
+    "alt": "Poster Star Wars",
+    "texto": "Una página de Cine que incluye barreras que pueden sufrir personas con discapacidades.",
+    "url": "https://sergiiiiiiiiii3.github.io/p6/"
+  }
 ]
