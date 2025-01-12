@@ -88,6 +88,14 @@
     "alt": "Imagen de personas con diversas discapacidades.",
     "texto": "Una página para reflexionar sobre la experiencia en webs de las personas con discapacidades.",
     "url": "https://juliz1.github.io/AprendiendoaEmpatizar/"
-}
-
+  },
+  {
+    "id": 10,
+    "autor": "Gemma Garrido i Anaïs Garrofé",
+    "titulo": "D&D Builder",
+    "srcimg": "https://raw.githubusercontent.com/ikwaru/webjeje/e02499373aaa3c394c63b84ac5d7889cb9540ce3/pagina/src/assets/logo1.png",
+    "alt": "Logo D&D",
+    "texto": "Web Informativa de Dungeons and Dragons",
+    "url": "https://ikwaru.github.io/webjeje/"
+  }
 ]
