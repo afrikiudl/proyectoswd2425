@@ -97,5 +97,14 @@
     "alt": "Logo D&D",
     "texto": "Web Informativa de Dungeons and Dragons",
     "url": "https://ikwaru.github.io/webjeje/"
-  }
+  },
+  {
+    "id": 11,
+    "autor": “Vlada Ivaniv“,
+    "titulo": “Panadería”,
+    "srcimg": "https://raw.githubusercontent.com/vladaivaniv/practica2/refs/heads/main/src/assets/about-us.webp",
+    "alt": “Pan en una mesa junto a otros aperitivos.”,
+    "texto": “Una panadería con barreras de accesibilidad",
+    "url": "https://vladaivaniv.github.io/practica2"
+  }
 ]
