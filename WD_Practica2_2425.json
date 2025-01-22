@@ -142,5 +142,15 @@
     "alt": "Obra La gran ola",
     "texto": "Museo interactivo para personas evaluar la frustración que sufren las personas con discapacidad",
     "url": "https://nicogomezbeltran.github.io/practica2/"
+  }, 
+  
+  {
+    "id": 16,
+    "autor": "Jan Llobet i Pau Romero ",
+    "titulo": "The Last Acces",
+    "srcimg": "https://i.giphy.com/WaTzH3uxzKFvSY6mjF.webp",
+    "alt": "",
+    "texto": "Ceació d’un lloc web interactiu que permeti als usuaris experimentar de manera immersiva i educativa les barreres d’accessibilitat amb què es troben les persones amb discapacitat quan utilitzen tecnologies digitals",
+    "url": "https://janllobet.github.io/projecte-accesibilitat/"
   }
 ]
