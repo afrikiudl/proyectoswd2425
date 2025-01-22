@@ -133,5 +133,14 @@
     "alt": "Meme Archive imagen",
     "texto": "Archivo de Memes para personas poco empáticas",
     "url": "https://adriaillamorales.github.io/memearchivetroll/"
+  },
+  {
+    "id": 15,
+    "autor": "Nico Gómez y Jaume Agulló",
+    "titulo": "Museo para (casi) todos",
+    "srcimg": "https://github.com/Nicogomezbeltran/practica2/blob/main/img/lagranola.c5b4e743.png?raw=true",
+    "alt": "Obra La gran ola",
+    "texto": "Museo interactivo para personas evaluar la frustración que sufren las personas con discapacidad",
+    "url": "https://nicogomezbeltran.github.io/practica2/"
   }
 ]
