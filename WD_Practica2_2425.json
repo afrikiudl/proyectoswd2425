@@ -143,7 +143,6 @@
     "texto": "Museo interactivo para personas evaluar la frustración que sufren las personas con discapacidad",
     "url": "https://nicogomezbeltran.github.io/practica2/"
   }, 
-  
   {
     "id": 16,
     "autor": "Jan Llobet i Pau Romero ",
@@ -152,5 +151,14 @@
     "alt": "",
     "texto": "Ceació d’un lloc web interactiu que permeti als usuaris experimentar de manera immersiva i educativa les barreres d’accessibilitat amb què es troben les persones amb discapacitat quan utilitzen tecnologies digitals",
     "url": "https://janllobet.github.io/projecte-accesibilitat/"
+  },
+  {
+    "id": 17,
+    "autor": "Nil Vantolra Rodríguez y Francesc Bonnín Donose",
+    "titulo": "Pokestore",
+    "srcimg": "https://nilvalton2.github.io/pokestore/img/pokemon-presents.af334ea3.jpg",
+    "alt": "",
+    "texto": "Lloc web de venta de pokemons",
+    "url": "https://nilvalton2.github.io/pokestore/"
   }
 ]
