@@ -160,5 +160,14 @@
     "alt": "",
     "texto": "Lloc web de venta de pokemons",
     "url": "https://nilvalton2.github.io/pokestore/"
+  },  
+  {
+    "id": 18,
+    "autor": "Vlada Ivaniv",
+    "titulo": "Panaderia",
+    "srcimg": "https://vladaivaniv.github.io/practica2/img/baguette.bc2f450a.webp",
+    "alt": "",
+    "texto": "Navega por la panaderia con barreras de contenido.",
+    "url": "https://nilvalton2.github.io/pokestore/"
   }
 ]
